@@ -13,6 +13,7 @@ O projeto pode ser clonado e adicionado ao GitHub seguindo estas etapas:
 
 Crie um novo repositório no GitHub.
 Clone o repositório para sua máquina local usando o Git.
+
 Copie os arquivos index.html, style.css e script.js para o diretório do seu repositório local.
+
 Execute os comandos do Git para adicionar, commitar e fazer push dos arquivos para o repositório remoto no GitHub.
-Agora o projeto está no GitHub e pode ser compartilhado e versionado. Certifique-se de adicionar um arquivo README.md com informações adicionais sobre o projeto, como descrição, instruções de uso e qualquer outra informação relevante.
